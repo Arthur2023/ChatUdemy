@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "569886009945",
+    "project_id": "chat-flutter-udemy-1897e",
+    "storage_bucket": "chat-flutter-udemy-1897e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569886009945:android:cd740ac0274af04f889f48",
+        "android_client_info": {
+          "package_name": "br.com.ciolfi.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569886009945-d4v0olk5vnrg8efblbnskv5tvkgpgqsf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.ciolfi.chat",
+            "certificate_hash": "c5b5f4baba963221ec5590a1a639e22b91b025f6"
+          }
+        },
+        {
+          "client_id": "569886009945-f1evs1pfb32g9g3scbgvrd8tjdk4tjc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtc8CTGt1JigBU9sZrcXvLOxMvqURe6jE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569886009945-f1evs1pfb32g9g3scbgvrd8tjdk4tjc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
